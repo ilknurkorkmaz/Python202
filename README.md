@@ -5,7 +5,7 @@ Bu repo, üç aşamalı olarak geliştirilen bir Python projesini içerir:
 2) Open Library API ile ISBN'den kitap bilgisi çekme
 3) FastAPI ile kendi API’nizi yayınlama
 
-## Hızlı Başlangıç
+## Başlangıç
 
 ```bash
 # Depoyu klonlayın
